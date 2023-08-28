@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@llama-node/llama-cpp": "^0.1.6",
+    "csv-parser": "^3.0.0",
+    "langchain": "^0.0.134",
+    "llama-node": "^0.1.6",
+    "lodash": "^4.17.21",
+    "node-llama-cpp": "^1.3.1",
+    "ora": "^7.0.1",
+    "papaparse": "^5.4.1",
+    "shell-escape": "^0.2.0"
+  },
+  "type": "module"
+}
